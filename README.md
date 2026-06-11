@@ -1,14 +1,27 @@
-# 👋 Hello, I'm Dogsign
+<div align="center">
 
-🎓 Computer Software Engineering Student
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B132B,50:1C2541,100:3A506B&text=Dongjin%20Kim&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
-🛡 Interested in Cyber Security, Defense Technology, Backend Development, and Intelligence Analysis
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Cyber+Security+Engineer;Software+Supply+Chain+Security;Backend+Developer;Defense+Technology;Threat+Intelligence+Researcher)](https://git.io/typing-svg)
 
-🚀 Building projects related to Software Supply Chain Security, AI-based Document Analysis, and Autonomous Systems
+![](https://komarev.com/ghpvc/?username=dogsign25&color=00ffaa&style=for-the-badge)
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 🛡 About Me
+
+```txt
+Name      : Dongjin Kim
+Major     : Computer Software Engineering
+Interest  : Cyber Security / Defense Technology / Backend Development
+Goal      : Defense Industry → Cyber Security Engineer → NIS
+```
+
+---
+
+# ⚡ Tech Stack
 
 ## Languages
 
@@ -16,11 +29,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Backend Development
+## Backend
 
 ```txt
 Java
@@ -32,8 +45,8 @@ Java
 Python
 ├── FastAPI
 ├── OCR Processing
-├── Data Analysis
-└── AI Integration
+├── AI Integration
+└── Data Analysis
 ```
 
 ---
@@ -59,7 +72,7 @@ AWS
 ├── EC2
 ├── RDS
 ├── S3
-└── Multi-AZ Architecture
+└── High Availability
 
 Linux
 ├── Ubuntu
@@ -94,23 +107,23 @@ LLM Integration
 Arduino & Raspberry Pi
 ├── Sensor Integration
 ├── Motor Control
-├── PWM Control
 ├── UART / I2C
+├── PWM Control
 └── Autonomous Navigation
 ```
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🛡 SupplyShield
 
-Defensive Software Supply Chain Security Scanner
+Software Supply Chain Security Scanner
 
 - Dependency Analysis
 - Secret Detection
-- Docker Security Inspection
 - Vulnerability Detection
+- Docker Security Inspection
 - SBOM Generation
 
 ---
@@ -121,9 +134,9 @@ AI-Powered Document Relationship Analysis Platform
 
 - Multi-document Analysis
 - Knowledge Graph Visualization
-- Entity Relationship Discovery
-- Timeline-based Exploration
-- Research Assistance
+- Relationship Discovery
+- Timeline Exploration
+- Research Intelligence
 
 ---
 
@@ -134,41 +147,57 @@ Autonomous Reconnaissance Robot
 - Obstacle Detection
 - Autonomous Navigation
 - Sensor Fusion
-- Embedded System Development
+- Embedded System Design
 
 ---
 
 ## 🎵 MusicApp
 
-Web-based Music Platform
+Java Web Music Platform
 
-- Java Servlet/JSP
-- MySQL Database
-- Spotify API Integration
+- Servlet / JSP
+- MySQL
+- Spotify API
 - User & Admin Management
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogsign25&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogsign25&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dogsign25&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogsign25&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 🎯 Career Goal
+# 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dogsign25&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🎯 Career Roadmap
 
 ```txt
+Computer Software Engineering
+                │
+                ▼
+Backend Development
+                │
+                ▼
+Cyber Security
+                │
+                ▼
+Threat Intelligence
+                │
+                ▼
 Defense Industry
-        │
-        ▼
-Cyber Security Engineer
-        │
-        ▼
-Threat Intelligence & Security Analysis
-        │
-        ▼
+                │
+                ▼
 National Intelligence Service
 ```
 
@@ -176,17 +205,29 @@ National Intelligence Service
 
 # 📚 Currently Learning
 
-- Spring Boot
-- Docker
-- AWS Architecture
-- Security Engineering
-- FastAPI
-- Software Supply Chain Security
+```txt
+Spring Boot
+Docker
+AWS Architecture
+FastAPI
+Security Engineering
+Software Supply Chain Security
+Threat Intelligence
+```
 
 ---
 
 # 📫 Contact
 
+```txt
 GitHub : https://github.com/dogsign25
+Email  : djkim083125@gmail.com
+```
 
-Email : djkim083125@gmail.com
+---
+
+<div align="center">
+
+"Security is not a product, but a process."
+
+</div>
