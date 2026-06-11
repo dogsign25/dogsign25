@@ -22,37 +22,6 @@ Current interests include:
 
 ---
 
-## Projects
-
-### SupplyShield
-
-Software Supply Chain Security Scanner
-
-- Dependency Analysis
-- Secret Detection
-- Vulnerability Detection
-- Docker Security Review
-- SBOM Generation
-
-### Ohara
-
-AI-based Document Relationship Analysis Platform
-
-- Entity Extraction
-- Relationship Analysis
-- Timeline Exploration
-- Knowledge Graph Visualization
-
-### ARES
-
-Autonomous Reconnaissance Robot
-
-- Autonomous Navigation
-- Sensor Integration
-- Embedded Systems
-
----
-
 ## Tech Stack
 
 ### Security
