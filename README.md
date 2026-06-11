@@ -14,12 +14,10 @@ I am interested in building secure systems and analyzing information at scale.
 
 Current interests include:
 
-- Software Supply Chain Security
 - Backend Engineering
-- Threat Intelligence
+- Intelligence Analysis
 - Defense Technology
-- Cloud Infrastructure
-
+  
 ---
 
 ## Tech Stack
