@@ -10,14 +10,56 @@ Software Supply Chain Security · Backend Systems · Intelligence Analysis
 
 ## About
 
-I am interested in building secure systems and analyzing information at scale.
+Interested in secure software development, information analysis, and system design.
 
-Current interests include:
+Current areas of focus:
 
+- Software Supply Chain Security
 - Backend Engineering
 - Intelligence Analysis
+- Cloud Infrastructure
 - Defense Technology
-  
+
+---
+
+## Projects
+
+### SupplyShield
+
+Software Supply Chain Security Scanner
+
+- Dependency Analysis
+- Secret Detection
+- Vulnerability Detection
+- Docker Security Review
+- SBOM Generation
+
+### Ohara
+
+AI-based Document Relationship Analysis Platform
+
+- Entity Extraction
+- Relationship Analysis
+- Timeline Analysis
+- Knowledge Graph Visualization
+
+### ARES
+
+Autonomous Reconnaissance Robot
+
+- Autonomous Navigation
+- Sensor Integration
+- Embedded Systems
+
+### MusicApp
+
+Java-based Web Music Platform
+
+- Servlet / JSP
+- MySQL
+- Spotify API Integration
+- User Management
+
 ---
 
 ## Tech Stack
@@ -50,8 +92,8 @@ Current interests include:
 
 - Arduino
 - Raspberry Pi
-- UART / I2C
 - Sensor Integration
+- UART / I2C
 
 ---
 
@@ -67,12 +109,18 @@ Current interests include:
 
 ---
 
-## Current Focus
+## Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dogsign25&bg_color=0d1117&color=8b949e&line=30363d&point=f0f6fc&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Currently Learning
 
 - Spring Boot
 - Docker
 - Security Engineering
-- Software Supply Chain Security
 - Cloud Architecture
+- Software Supply Chain Security
 
 ```
